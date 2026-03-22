@@ -4,7 +4,7 @@ title: "Inthepiepline"
 description: ""
 ---
 
-**You play with the cards you're dealt.**
+**努力は夢中に勝てず、習慣はやる気に勝る**
 
 ## Contents
 * [塊善](https://kai-zen.pages.dev/){:target="_blank" rel="noopener"}
