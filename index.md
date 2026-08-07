@@ -9,7 +9,7 @@ description: ""
 ## Contents
 * [My Website](https://inthepiepline.jimdofree.com/){:target="_blank" rel="noopener"}
 * [塊善](https://kai-zen.pages.dev/){:target="_blank" rel="noopener"}
-* [Flatrend](https://kai-zen.pages.dev/){:target="_blank" rel="noopener"}
+* [Flatrend](https://flatrend.pages.dev/){:target="_blank" rel="noopener"}
 * [Zipangeath](https://inthepiepline.github.io/zipangeath/){:target="_blank" rel="noopener"}
 * [Lintism](https://inthepiepline.github.io/lintism/){:target="_blank" rel="noopener"}
 * [Commegresh](https://inthepiepline.github.io/commegresh/){:target="_blank" rel="noopener"}
