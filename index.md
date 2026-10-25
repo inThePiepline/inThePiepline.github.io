@@ -8,6 +8,7 @@ description: ""
 
 ## Contents
 * [My Website](https://inthepiepline.jimdofree.com/){:target="_blank" rel="noopener"}
+* [Game studio Website](https://litlivka.pages.dev/){:target="_blank" rel="noopener"}
 * [塊善](https://kai-zen.pages.dev/){:target="_blank" rel="noopener"}
 * [Flatrend](https://flatrend.pages.dev/){:target="_blank" rel="noopener"}
 * [Satisfy-games](https://satisfy-games.pages.dev/){:target="_blank" rel="noopener"}
